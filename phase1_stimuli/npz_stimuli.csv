@@ -1,0 +1,145 @@
+item,construction,condition,distance,critical_region_index,critical_word,sentence
+1,NPZ,ambiguous,d1,7,deserved,Because the suspect changed the file deserved further investigation during the jury discussions.
+1,NPZ,ambiguous,d2,8,deserved,Because the suspect changed the confidential file deserved further investigation during the jury discussions.
+1,NPZ,ambiguous,d3,9,deserved,Because the suspect changed the confidential legal file deserved further investigation during the jury discussions.
+1,NPZ,control,d1,7,deserved,"Because the suspect changed, the file deserved further investigation during the jury discussions."
+1,NPZ,control,d2,8,deserved,"Because the suspect changed, the confidential file deserved further investigation during the jury discussions."
+1,NPZ,control,d3,9,deserved,"Because the suspect changed, the confidential legal file deserved further investigation during the jury discussions."
+2,NPZ,ambiguous,d1,8,received,After the corrupt politician signed the bill received unwelcome attention from southern voters.
+2,NPZ,ambiguous,d2,9,received,After the corrupt politician signed the new bill received unwelcome attention from southern voters.
+2,NPZ,ambiguous,d3,10,received,After the corrupt politician signed the new federal bill received unwelcome attention from southern voters.
+2,NPZ,control,d1,8,received,"After the corrupt politician signed, the bill received unwelcome attention from southern voters."
+2,NPZ,control,d2,9,received,"After the corrupt politician signed, the new bill received unwelcome attention from southern voters."
+2,NPZ,control,d3,10,received,"After the corrupt politician signed, the new federal bill received unwelcome attention from southern voters."
+3,NPZ,ambiguous,d1,7,disappeared,After the woman moved the mail disappeared mysteriously from the delivery system.
+3,NPZ,ambiguous,d2,8,disappeared,After the woman moved the important mail disappeared mysteriously from the delivery system.
+3,NPZ,ambiguous,d3,9,disappeared,After the woman moved the important confidential mail disappeared mysteriously from the delivery system.
+3,NPZ,control,d1,7,disappeared,"After the woman moved, the mail disappeared mysteriously from the delivery system."
+3,NPZ,control,d2,8,disappeared,"After the woman moved, the important mail disappeared mysteriously from the delivery system."
+3,NPZ,control,d3,9,disappeared,"After the woman moved, the important confidential mail disappeared mysteriously from the delivery system."
+4,NPZ,ambiguous,d1,7,stayed,Although the boy attacked the chicken stayed surprisingly happy as if nothing happened.
+4,NPZ,ambiguous,d2,8,stayed,Although the boy attacked the small chicken stayed surprisingly happy as if nothing happened.
+4,NPZ,ambiguous,d3,9,stayed,Although the boy attacked the small white chicken stayed surprisingly happy as if nothing happened.
+4,NPZ,control,d1,7,stayed,"Although the boy attacked, the chicken stayed surprisingly happy as if nothing happened."
+4,NPZ,control,d2,8,stayed,"Although the boy attacked, the small chicken stayed surprisingly happy as if nothing happened."
+4,NPZ,control,d3,9,stayed,"Although the boy attacked, the small white chicken stayed surprisingly happy as if nothing happened."
+5,NPZ,ambiguous,d1,8,appeared,After the new doctor left the operation appeared increasingly likely to succeed.
+5,NPZ,ambiguous,d2,9,appeared,After the new doctor left the complex operation appeared increasingly likely to succeed.
+5,NPZ,ambiguous,d3,10,appeared,After the new doctor left the complex surgical operation appeared increasingly likely to succeed.
+5,NPZ,control,d1,8,appeared,"After the new doctor left, the operation appeared increasingly likely to succeed."
+5,NPZ,control,d2,9,appeared,"After the new doctor left, the complex operation appeared increasingly likely to succeed."
+5,NPZ,control,d3,10,appeared,"After the new doctor left, the complex surgical operation appeared increasingly likely to succeed."
+6,NPZ,ambiguous,d1,7,gained,After the professor read the grant gained more attention due to her excellent description.
+6,NPZ,ambiguous,d2,8,gained,After the professor read the large grant gained more attention due to her excellent description.
+6,NPZ,ambiguous,d3,9,gained,After the professor read the large federal grant gained more attention due to her excellent description.
+6,NPZ,control,d1,7,gained,"After the professor read, the grant gained more attention due to her excellent description."
+6,NPZ,control,d2,8,gained,"After the professor read, the large grant gained more attention due to her excellent description."
+6,NPZ,control,d3,9,gained,"After the professor read, the large federal grant gained more attention due to her excellent description."
+7,NPZ,ambiguous,d1,7,stopped,After the technician called the service stopped working almost immediately to his surprise.
+7,NPZ,ambiguous,d2,8,stopped,After the technician called the local service stopped working almost immediately to his surprise.
+7,NPZ,ambiguous,d3,9,stopped,After the technician called the local delivery service stopped working almost immediately to his surprise.
+7,NPZ,control,d1,7,stopped,"After the technician called, the service stopped working almost immediately to his surprise."
+7,NPZ,control,d2,8,stopped,"After the technician called, the local service stopped working almost immediately to his surprise."
+7,NPZ,control,d3,9,stopped,"After the technician called, the local delivery service stopped working almost immediately to his surprise."
+8,NPZ,ambiguous,d1,7,needed,Because the mechanic stopped the truck needed several more hours before it could be fully repaired.
+8,NPZ,ambiguous,d2,8,needed,Because the mechanic stopped the old truck needed several more hours before it could be fully repaired.
+8,NPZ,ambiguous,d3,9,needed,Because the mechanic stopped the old rusty truck needed several more hours before it could be fully repaired.
+8,NPZ,control,d1,7,needed,"Because the mechanic stopped, the truck needed several more hours before it could be fully repaired."
+8,NPZ,control,d2,8,needed,"Because the mechanic stopped, the old truck needed several more hours before it could be fully repaired."
+8,NPZ,control,d3,9,needed,"Because the mechanic stopped, the old rusty truck needed several more hours before it could be fully repaired."
+9,NPZ,ambiguous,d1,7,failed,After the guitarist began the song failed dramatically because he skipped the sound check.
+9,NPZ,ambiguous,d2,8,failed,After the guitarist began the new song failed dramatically because he skipped the sound check.
+9,NPZ,ambiguous,d3,9,failed,After the guitarist began the catchy new song failed dramatically because he skipped the sound check.
+9,NPZ,control,d1,7,failed,"After the guitarist began, the song failed dramatically because he skipped the sound check."
+9,NPZ,control,d2,8,failed,"After the guitarist began, the new song failed dramatically because he skipped the sound check."
+9,NPZ,control,d3,9,failed,"After the guitarist began, the catchy new song failed dramatically because he skipped the sound check."
+10,NPZ,ambiguous,d1,7,remained,Although the player lost the bonus remained essentially the same as in the original contract.
+10,NPZ,ambiguous,d2,8,remained,Although the player lost the large bonus remained essentially the same as in the original contract.
+10,NPZ,ambiguous,d3,9,remained,Although the player lost the large annual bonus remained essentially the same as in the original contract.
+10,NPZ,control,d1,7,remained,"Although the player lost, the bonus remained essentially the same as in the original contract."
+10,NPZ,control,d2,8,remained,"Although the player lost, the large bonus remained essentially the same as in the original contract."
+10,NPZ,control,d3,9,remained,"Although the player lost, the large annual bonus remained essentially the same as in the original contract."
+11,NPZ,ambiguous,d1,8,prepared,Once the recent hire started the job prepared many students for careers in media.
+11,NPZ,ambiguous,d2,9,prepared,Once the recent hire started the new job prepared many students for careers in media.
+11,NPZ,ambiguous,d3,10,prepared,Once the recent hire started the demanding new job prepared many students for careers in media.
+11,NPZ,control,d1,8,prepared,"Once the recent hire started, the job prepared many students for careers in media."
+11,NPZ,control,d2,9,prepared,"Once the recent hire started, the new job prepared many students for careers in media."
+11,NPZ,control,d3,10,prepared,"Once the recent hire started, the demanding new job prepared many students for careers in media."
+12,NPZ,ambiguous,d1,8,seemed,While the assistant manager worked the training seemed unnecessarily demanding to him.
+12,NPZ,ambiguous,d2,9,seemed,While the assistant manager worked the intensive training seemed unnecessarily demanding to him.
+12,NPZ,ambiguous,d3,10,seemed,While the assistant manager worked the intensive mandatory training seemed unnecessarily demanding to him.
+12,NPZ,control,d1,8,seemed,"While the assistant manager worked, the training seemed unnecessarily demanding to him."
+12,NPZ,control,d2,9,seemed,"While the assistant manager worked, the intensive training seemed unnecessarily demanding to him."
+12,NPZ,control,d3,10,seemed,"While the assistant manager worked, the intensive mandatory training seemed unnecessarily demanding to him."
+13,NPZ,ambiguous,d1,7,provided,Although the mayor changed the document provided sufficient evidence for what he had promised.
+13,NPZ,ambiguous,d2,8,provided,Although the mayor changed the official document provided sufficient evidence for what he had promised.
+13,NPZ,ambiguous,d3,9,provided,Although the mayor changed the official legal document provided sufficient evidence for what he had promised.
+13,NPZ,control,d1,7,provided,"Although the mayor changed, the document provided sufficient evidence for what he had promised."
+13,NPZ,control,d2,8,provided,"Although the mayor changed, the official document provided sufficient evidence for what he had promised."
+13,NPZ,control,d3,9,provided,"Although the mayor changed, the official legal document provided sufficient evidence for what he had promised."
+14,NPZ,ambiguous,d1,8,created,After the basketball player signed the contract created another controversy in the NBA.
+14,NPZ,ambiguous,d2,9,created,After the basketball player signed the lucrative contract created another controversy in the NBA.
+14,NPZ,ambiguous,d3,10,created,After the basketball player signed the lucrative new contract created another controversy in the NBA.
+14,NPZ,control,d1,8,created,"After the basketball player signed, the contract created another controversy in the NBA."
+14,NPZ,control,d2,9,created,"After the basketball player signed, the lucrative contract created another controversy in the NBA."
+14,NPZ,control,d3,10,created,"After the basketball player signed, the lucrative new contract created another controversy in the NBA."
+15,NPZ,ambiguous,d1,7,required,After the engineer moved the equipment required constant supervision from senior technicians.
+15,NPZ,ambiguous,d2,8,required,After the engineer moved the heavy equipment required constant supervision from senior technicians.
+15,NPZ,ambiguous,d3,9,required,After the engineer moved the heavy specialized equipment required constant supervision from senior technicians.
+15,NPZ,control,d1,7,required,"After the engineer moved, the equipment required constant supervision from senior technicians."
+15,NPZ,control,d2,8,required,"After the engineer moved, the heavy equipment required constant supervision from senior technicians."
+15,NPZ,control,d3,9,required,"After the engineer moved, the heavy specialized equipment required constant supervision from senior technicians."
+16,NPZ,ambiguous,d1,8,remained,When the little girl attacked the lamb remained relatively calm despite the sudden assault.
+16,NPZ,ambiguous,d2,9,remained,When the little girl attacked the young lamb remained relatively calm despite the sudden assault.
+16,NPZ,ambiguous,d3,10,remained,When the little girl attacked the young timid lamb remained relatively calm despite the sudden assault.
+16,NPZ,control,d1,8,remained,"When the little girl attacked, the lamb remained relatively calm despite the sudden assault."
+16,NPZ,control,d2,9,remained,"When the little girl attacked, the young lamb remained relatively calm despite the sudden assault."
+16,NPZ,control,d3,10,remained,"When the little girl attacked, the young timid lamb remained relatively calm despite the sudden assault."
+17,NPZ,ambiguous,d1,8,demanded,Before the yoga instructor left the position demanded immense physical effort from everyone.
+17,NPZ,ambiguous,d2,9,demanded,Before the yoga instructor left the difficult position demanded immense physical effort from everyone.
+17,NPZ,ambiguous,d3,10,demanded,Before the yoga instructor left the difficult advanced position demanded immense physical effort from everyone.
+17,NPZ,control,d1,8,demanded,"Before the yoga instructor left, the position demanded immense physical effort from everyone."
+17,NPZ,control,d2,9,demanded,"Before the yoga instructor left, the difficult position demanded immense physical effort from everyone."
+17,NPZ,control,d3,10,demanded,"Before the yoga instructor left, the difficult advanced position demanded immense physical effort from everyone."
+18,NPZ,ambiguous,d1,7,received,While the governor read the contract received sweeping support from the audience at the rally.
+18,NPZ,ambiguous,d2,8,received,While the governor read the detailed contract received sweeping support from the audience at the rally.
+18,NPZ,ambiguous,d3,9,received,While the governor read the detailed new contract received sweeping support from the audience at the rally.
+18,NPZ,control,d1,7,received,"While the governor read, the contract received sweeping support from the audience at the rally."
+18,NPZ,control,d2,8,received,"While the governor read, the detailed contract received sweeping support from the audience at the rally."
+18,NPZ,control,d3,9,received,"While the governor read, the detailed new contract received sweeping support from the audience at the rally."
+19,NPZ,ambiguous,d1,7,continued,Before the patient called the treatment continued causing uncomfortable side effects like nausea.
+19,NPZ,ambiguous,d2,8,continued,Before the patient called the new treatment continued causing uncomfortable side effects like nausea.
+19,NPZ,ambiguous,d3,9,continued,Before the patient called the new experimental treatment continued causing uncomfortable side effects like nausea.
+19,NPZ,control,d1,7,continued,"Before the patient called, the treatment continued causing uncomfortable side effects like nausea."
+19,NPZ,control,d2,8,continued,"Before the patient called, the new treatment continued causing uncomfortable side effects like nausea."
+19,NPZ,control,d3,9,continued,"Before the patient called, the new experimental treatment continued causing uncomfortable side effects like nausea."
+20,NPZ,ambiguous,d1,7,started,Once the operator stopped the machine started working efficiently without any supervision.
+20,NPZ,ambiguous,d2,8,started,Once the operator stopped the large machine started working efficiently without any supervision.
+20,NPZ,ambiguous,d3,9,started,Once the operator stopped the large noisy machine started working efficiently without any supervision.
+20,NPZ,control,d1,7,started,"Once the operator stopped, the machine started working efficiently without any supervision."
+20,NPZ,control,d2,8,started,"Once the operator stopped, the large machine started working efficiently without any supervision."
+20,NPZ,control,d3,9,started,"Once the operator stopped, the large noisy machine started working efficiently without any supervision."
+21,NPZ,ambiguous,d1,7,achieved,Once the dancer began the ballet achieved incredible success for a show with a new performer.
+21,NPZ,ambiguous,d2,8,achieved,Once the dancer began the new ballet achieved incredible success for a show with a new performer.
+21,NPZ,ambiguous,d3,9,achieved,Once the dancer began the elegant new ballet achieved incredible success for a show with a new performer.
+21,NPZ,control,d1,7,achieved,"Once the dancer began, the ballet achieved incredible success for a show with a new performer."
+21,NPZ,control,d2,8,achieved,"Once the dancer began, the new ballet achieved incredible success for a show with a new performer."
+21,NPZ,control,d3,9,achieved,"Once the dancer began, the elegant new ballet achieved incredible success for a show with a new performer."
+22,NPZ,ambiguous,d1,7,became,After the contestant lost the money became unavailable despite his previous three wins in a row.
+22,NPZ,ambiguous,d2,8,became,After the contestant lost the extra money became unavailable despite his previous three wins in a row.
+22,NPZ,ambiguous,d3,9,became,After the contestant lost the extra prize money became unavailable despite his previous three wins in a row.
+22,NPZ,control,d1,7,became,"After the contestant lost, the money became unavailable despite his previous three wins in a row."
+22,NPZ,control,d2,8,became,"After the contestant lost, the extra money became unavailable despite his previous three wins in a row."
+22,NPZ,control,d3,9,became,"After the contestant lost, the extra prize money became unavailable despite his previous three wins in a row."
+23,NPZ,ambiguous,d1,8,separated,Once the new chef started the restaurant separated mediocre cooks from gifted ones.
+23,NPZ,ambiguous,d2,9,separated,Once the new chef started the new restaurant separated mediocre cooks from gifted ones.
+23,NPZ,ambiguous,d3,10,separated,Once the new chef started the small new restaurant separated mediocre cooks from gifted ones.
+23,NPZ,control,d1,8,separated,"Once the new chef started, the restaurant separated mediocre cooks from gifted ones."
+23,NPZ,control,d2,9,separated,"Once the new chef started, the new restaurant separated mediocre cooks from gifted ones."
+23,NPZ,control,d3,10,separated,"Once the new chef started, the small new restaurant separated mediocre cooks from gifted ones."
+24,NPZ,ambiguous,d1,8,produced,When the apprentice baker worked the oven produced smaller cakes because he lacked experience.
+24,NPZ,ambiguous,d2,9,produced,When the apprentice baker worked the large oven produced smaller cakes because he lacked experience.
+24,NPZ,ambiguous,d3,10,produced,When the apprentice baker worked the large industrial oven produced smaller cakes because he lacked experience.
+24,NPZ,control,d1,8,produced,"When the apprentice baker worked, the oven produced smaller cakes because he lacked experience."
+24,NPZ,control,d2,9,produced,"When the apprentice baker worked, the large oven produced smaller cakes because he lacked experience."
+24,NPZ,control,d3,10,produced,"When the apprentice baker worked, the large industrial oven produced smaller cakes because he lacked experience."

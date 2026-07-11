@@ -1,0 +1,145 @@
+item,construction,condition,distance,critical_word,sentence,critical_region_surprisal,n_critical_tokens,model
+1,NPZ,ambiguous,d1,deserved,Because the suspect changed the file deserved further investigation during the jury discussions.,23.77294921875,1,EleutherAI/pythia-1.4b
+1,NPZ,ambiguous,d2,deserved,Because the suspect changed the confidential file deserved further investigation during the jury discussions.,24.041547775268555,1,EleutherAI/pythia-1.4b
+1,NPZ,ambiguous,d3,deserved,Because the suspect changed the confidential legal file deserved further investigation during the jury discussions.,23.783458709716797,1,EleutherAI/pythia-1.4b
+1,NPZ,control,d1,deserved,"Because the suspect changed, the file deserved further investigation during the jury discussions.",18.816015243530273,1,EleutherAI/pythia-1.4b
+1,NPZ,control,d2,deserved,"Because the suspect changed, the confidential file deserved further investigation during the jury discussions.",18.89080238342285,1,EleutherAI/pythia-1.4b
+1,NPZ,control,d3,deserved,"Because the suspect changed, the confidential legal file deserved further investigation during the jury discussions.",19.744178771972656,1,EleutherAI/pythia-1.4b
+2,NPZ,ambiguous,d1,received,After the corrupt politician signed the bill received unwelcome attention from southern voters.,15.857650756835938,1,EleutherAI/pythia-1.4b
+2,NPZ,ambiguous,d2,received,After the corrupt politician signed the new bill received unwelcome attention from southern voters.,15.499347686767578,1,EleutherAI/pythia-1.4b
+2,NPZ,ambiguous,d3,received,After the corrupt politician signed the new federal bill received unwelcome attention from southern voters.,15.497970581054688,1,EleutherAI/pythia-1.4b
+2,NPZ,control,d1,received,"After the corrupt politician signed, the bill received unwelcome attention from southern voters.",8.908849716186523,1,EleutherAI/pythia-1.4b
+2,NPZ,control,d2,received,"After the corrupt politician signed, the new bill received unwelcome attention from southern voters.",8.792799949645996,1,EleutherAI/pythia-1.4b
+2,NPZ,control,d3,received,"After the corrupt politician signed, the new federal bill received unwelcome attention from southern voters.",9.106616020202637,1,EleutherAI/pythia-1.4b
+3,NPZ,ambiguous,d1,disappeared,After the woman moved the mail disappeared mysteriously from the delivery system.,16.838747024536133,1,EleutherAI/pythia-1.4b
+3,NPZ,ambiguous,d2,disappeared,After the woman moved the important mail disappeared mysteriously from the delivery system.,17.204423904418945,1,EleutherAI/pythia-1.4b
+3,NPZ,ambiguous,d3,disappeared,After the woman moved the important confidential mail disappeared mysteriously from the delivery system.,17.824886322021484,1,EleutherAI/pythia-1.4b
+3,NPZ,control,d1,disappeared,"After the woman moved, the mail disappeared mysteriously from the delivery system.",10.099283218383789,1,EleutherAI/pythia-1.4b
+3,NPZ,control,d2,disappeared,"After the woman moved, the important mail disappeared mysteriously from the delivery system.",10.251378059387207,1,EleutherAI/pythia-1.4b
+3,NPZ,control,d3,disappeared,"After the woman moved, the important confidential mail disappeared mysteriously from the delivery system.",8.9306640625,1,EleutherAI/pythia-1.4b
+4,NPZ,ambiguous,d1,stayed,Although the boy attacked the chicken stayed surprisingly happy as if nothing happened.,20.97470474243164,1,EleutherAI/pythia-1.4b
+4,NPZ,ambiguous,d2,stayed,Although the boy attacked the small chicken stayed surprisingly happy as if nothing happened.,20.877954483032227,1,EleutherAI/pythia-1.4b
+4,NPZ,ambiguous,d3,stayed,Although the boy attacked the small white chicken stayed surprisingly happy as if nothing happened.,20.028244018554688,1,EleutherAI/pythia-1.4b
+4,NPZ,control,d1,stayed,"Although the boy attacked, the chicken stayed surprisingly happy as if nothing happened.",8.730158805847168,1,EleutherAI/pythia-1.4b
+4,NPZ,control,d2,stayed,"Although the boy attacked, the small chicken stayed surprisingly happy as if nothing happened.",9.522486686706543,1,EleutherAI/pythia-1.4b
+4,NPZ,control,d3,stayed,"Although the boy attacked, the small white chicken stayed surprisingly happy as if nothing happened.",9.00784969329834,1,EleutherAI/pythia-1.4b
+5,NPZ,ambiguous,d1,appeared,After the new doctor left the operation appeared increasingly likely to succeed.,15.107792854309082,1,EleutherAI/pythia-1.4b
+5,NPZ,ambiguous,d2,appeared,After the new doctor left the complex operation appeared increasingly likely to succeed.,11.960684776306152,1,EleutherAI/pythia-1.4b
+5,NPZ,ambiguous,d3,appeared,After the new doctor left the complex surgical operation appeared increasingly likely to succeed.,11.044342994689941,1,EleutherAI/pythia-1.4b
+5,NPZ,control,d1,appeared,"After the new doctor left, the operation appeared increasingly likely to succeed.",11.094358444213867,1,EleutherAI/pythia-1.4b
+5,NPZ,control,d2,appeared,"After the new doctor left, the complex operation appeared increasingly likely to succeed.",10.728379249572754,1,EleutherAI/pythia-1.4b
+5,NPZ,control,d3,appeared,"After the new doctor left, the complex surgical operation appeared increasingly likely to succeed.",11.20250129699707,1,EleutherAI/pythia-1.4b
+6,NPZ,ambiguous,d1,gained,After the professor read the grant gained more attention due to her excellent description.,21.864946365356445,1,EleutherAI/pythia-1.4b
+6,NPZ,ambiguous,d2,gained,After the professor read the large grant gained more attention due to her excellent description.,18.86023712158203,1,EleutherAI/pythia-1.4b
+6,NPZ,ambiguous,d3,gained,After the professor read the large federal grant gained more attention due to her excellent description.,19.17600440979004,1,EleutherAI/pythia-1.4b
+6,NPZ,control,d1,gained,"After the professor read, the grant gained more attention due to her excellent description.",15.334031105041504,1,EleutherAI/pythia-1.4b
+6,NPZ,control,d2,gained,"After the professor read, the large grant gained more attention due to her excellent description.",15.864846229553223,1,EleutherAI/pythia-1.4b
+6,NPZ,control,d3,gained,"After the professor read, the large federal grant gained more attention due to her excellent description.",14.985057830810547,1,EleutherAI/pythia-1.4b
+7,NPZ,ambiguous,d1,stopped,After the technician called the service stopped working almost immediately to his surprise.,16.912179946899414,1,EleutherAI/pythia-1.4b
+7,NPZ,ambiguous,d2,stopped,After the technician called the local service stopped working almost immediately to his surprise.,19.128494262695312,1,EleutherAI/pythia-1.4b
+7,NPZ,ambiguous,d3,stopped,After the technician called the local delivery service stopped working almost immediately to his surprise.,18.672651290893555,1,EleutherAI/pythia-1.4b
+7,NPZ,control,d1,stopped,"After the technician called, the service stopped working almost immediately to his surprise.",9.981368064880371,1,EleutherAI/pythia-1.4b
+7,NPZ,control,d2,stopped,"After the technician called, the local service stopped working almost immediately to his surprise.",11.062070846557617,1,EleutherAI/pythia-1.4b
+7,NPZ,control,d3,stopped,"After the technician called, the local delivery service stopped working almost immediately to his surprise.",8.08105182647705,1,EleutherAI/pythia-1.4b
+8,NPZ,ambiguous,d1,needed,Because the mechanic stopped the truck needed several more hours before it could be fully repaired.,15.478857040405273,1,EleutherAI/pythia-1.4b
+8,NPZ,ambiguous,d2,needed,Because the mechanic stopped the old truck needed several more hours before it could be fully repaired.,14.215065002441406,1,EleutherAI/pythia-1.4b
+8,NPZ,ambiguous,d3,needed,Because the mechanic stopped the old rusty truck needed several more hours before it could be fully repaired.,13.856639862060547,1,EleutherAI/pythia-1.4b
+8,NPZ,control,d1,needed,"Because the mechanic stopped, the truck needed several more hours before it could be fully repaired.",9.050041198730469,1,EleutherAI/pythia-1.4b
+8,NPZ,control,d2,needed,"Because the mechanic stopped, the old truck needed several more hours before it could be fully repaired.",8.795708656311035,1,EleutherAI/pythia-1.4b
+8,NPZ,control,d3,needed,"Because the mechanic stopped, the old rusty truck needed several more hours before it could be fully repaired.",8.893896102905273,1,EleutherAI/pythia-1.4b
+9,NPZ,ambiguous,d1,failed,After the guitarist began the song failed dramatically because he skipped the sound check.,20.043996810913086,1,EleutherAI/pythia-1.4b
+9,NPZ,ambiguous,d2,failed,After the guitarist began the new song failed dramatically because he skipped the sound check.,20.279644012451172,1,EleutherAI/pythia-1.4b
+9,NPZ,ambiguous,d3,failed,After the guitarist began the catchy new song failed dramatically because he skipped the sound check.,20.849773406982422,1,EleutherAI/pythia-1.4b
+9,NPZ,control,d1,failed,"After the guitarist began, the song failed dramatically because he skipped the sound check.",13.985567092895508,1,EleutherAI/pythia-1.4b
+9,NPZ,control,d2,failed,"After the guitarist began, the new song failed dramatically because he skipped the sound check.",13.547642707824707,1,EleutherAI/pythia-1.4b
+9,NPZ,control,d3,failed,"After the guitarist began, the catchy new song failed dramatically because he skipped the sound check.",13.815766334533691,1,EleutherAI/pythia-1.4b
+10,NPZ,ambiguous,d1,remained,Although the player lost the bonus remained essentially the same as in the original contract.,16.350475311279297,1,EleutherAI/pythia-1.4b
+10,NPZ,ambiguous,d2,remained,Although the player lost the large bonus remained essentially the same as in the original contract.,16.823265075683594,1,EleutherAI/pythia-1.4b
+10,NPZ,ambiguous,d3,remained,Although the player lost the large annual bonus remained essentially the same as in the original contract.,16.93792724609375,1,EleutherAI/pythia-1.4b
+10,NPZ,control,d1,remained,"Although the player lost, the bonus remained essentially the same as in the original contract.",7.888593673706055,1,EleutherAI/pythia-1.4b
+10,NPZ,control,d2,remained,"Although the player lost, the large bonus remained essentially the same as in the original contract.",9.06043529510498,1,EleutherAI/pythia-1.4b
+10,NPZ,control,d3,remained,"Although the player lost, the large annual bonus remained essentially the same as in the original contract.",7.603402614593506,1,EleutherAI/pythia-1.4b
+11,NPZ,ambiguous,d1,prepared,Once the recent hire started the job prepared many students for careers in media.,18.58971405029297,1,EleutherAI/pythia-1.4b
+11,NPZ,ambiguous,d2,prepared,Once the recent hire started the new job prepared many students for careers in media.,18.6458740234375,1,EleutherAI/pythia-1.4b
+11,NPZ,ambiguous,d3,prepared,Once the recent hire started the demanding new job prepared many students for careers in media.,18.273967742919922,1,EleutherAI/pythia-1.4b
+11,NPZ,control,d1,prepared,"Once the recent hire started, the job prepared many students for careers in media.",15.726407051086426,1,EleutherAI/pythia-1.4b
+11,NPZ,control,d2,prepared,"Once the recent hire started, the new job prepared many students for careers in media.",16.036611557006836,1,EleutherAI/pythia-1.4b
+11,NPZ,control,d3,prepared,"Once the recent hire started, the demanding new job prepared many students for careers in media.",15.02811050415039,1,EleutherAI/pythia-1.4b
+12,NPZ,ambiguous,d1,seemed,While the assistant manager worked the training seemed unnecessarily demanding to him.,18.421350479125977,1,EleutherAI/pythia-1.4b
+12,NPZ,ambiguous,d2,seemed,While the assistant manager worked the intensive training seemed unnecessarily demanding to him.,18.879911422729492,1,EleutherAI/pythia-1.4b
+12,NPZ,ambiguous,d3,seemed,While the assistant manager worked the intensive mandatory training seemed unnecessarily demanding to him.,18.734865188598633,1,EleutherAI/pythia-1.4b
+12,NPZ,control,d1,seemed,"While the assistant manager worked, the training seemed unnecessarily demanding to him.",11.03596019744873,1,EleutherAI/pythia-1.4b
+12,NPZ,control,d2,seemed,"While the assistant manager worked, the intensive training seemed unnecessarily demanding to him.",10.463552474975586,1,EleutherAI/pythia-1.4b
+12,NPZ,control,d3,seemed,"While the assistant manager worked, the intensive mandatory training seemed unnecessarily demanding to him.",10.654269218444824,1,EleutherAI/pythia-1.4b
+13,NPZ,ambiguous,d1,provided,Although the mayor changed the document provided sufficient evidence for what he had promised.,12.369522094726562,1,EleutherAI/pythia-1.4b
+13,NPZ,ambiguous,d2,provided,Although the mayor changed the official document provided sufficient evidence for what he had promised.,11.183082580566406,1,EleutherAI/pythia-1.4b
+13,NPZ,ambiguous,d3,provided,Although the mayor changed the official legal document provided sufficient evidence for what he had promised.,11.121464729309082,1,EleutherAI/pythia-1.4b
+13,NPZ,control,d1,provided,"Although the mayor changed, the document provided sufficient evidence for what he had promised.",9.279702186584473,1,EleutherAI/pythia-1.4b
+13,NPZ,control,d2,provided,"Although the mayor changed, the official document provided sufficient evidence for what he had promised.",9.093724250793457,1,EleutherAI/pythia-1.4b
+13,NPZ,control,d3,provided,"Although the mayor changed, the official legal document provided sufficient evidence for what he had promised.",9.407393455505371,1,EleutherAI/pythia-1.4b
+14,NPZ,ambiguous,d1,created,After the basketball player signed the contract created another controversy in the NBA.,17.49910545349121,1,EleutherAI/pythia-1.4b
+14,NPZ,ambiguous,d2,created,After the basketball player signed the lucrative contract created another controversy in the NBA.,16.882606506347656,1,EleutherAI/pythia-1.4b
+14,NPZ,ambiguous,d3,created,After the basketball player signed the lucrative new contract created another controversy in the NBA.,16.444759368896484,1,EleutherAI/pythia-1.4b
+14,NPZ,control,d1,created,"After the basketball player signed, the contract created another controversy in the NBA.",13.147436141967773,1,EleutherAI/pythia-1.4b
+14,NPZ,control,d2,created,"After the basketball player signed, the lucrative contract created another controversy in the NBA.",12.09138011932373,1,EleutherAI/pythia-1.4b
+14,NPZ,control,d3,created,"After the basketball player signed, the lucrative new contract created another controversy in the NBA.",10.777843475341797,1,EleutherAI/pythia-1.4b
+15,NPZ,ambiguous,d1,required,After the engineer moved the equipment required constant supervision from senior technicians.,13.158819198608398,1,EleutherAI/pythia-1.4b
+15,NPZ,ambiguous,d2,required,After the engineer moved the heavy equipment required constant supervision from senior technicians.,12.771492004394531,1,EleutherAI/pythia-1.4b
+15,NPZ,ambiguous,d3,required,After the engineer moved the heavy specialized equipment required constant supervision from senior technicians.,8.45226764678955,1,EleutherAI/pythia-1.4b
+15,NPZ,control,d1,required,"After the engineer moved, the equipment required constant supervision from senior technicians.",11.57413101196289,1,EleutherAI/pythia-1.4b
+15,NPZ,control,d2,required,"After the engineer moved, the heavy equipment required constant supervision from senior technicians.",13.13221263885498,1,EleutherAI/pythia-1.4b
+15,NPZ,control,d3,required,"After the engineer moved, the heavy specialized equipment required constant supervision from senior technicians.",9.655577659606934,1,EleutherAI/pythia-1.4b
+16,NPZ,ambiguous,d1,remained,When the little girl attacked the lamb remained relatively calm despite the sudden assault.,18.819717407226562,1,EleutherAI/pythia-1.4b
+16,NPZ,ambiguous,d2,remained,When the little girl attacked the young lamb remained relatively calm despite the sudden assault.,18.537961959838867,1,EleutherAI/pythia-1.4b
+16,NPZ,ambiguous,d3,remained,When the little girl attacked the young timid lamb remained relatively calm despite the sudden assault.,18.460960388183594,1,EleutherAI/pythia-1.4b
+16,NPZ,control,d1,remained,"When the little girl attacked, the lamb remained relatively calm despite the sudden assault.",10.873414993286133,1,EleutherAI/pythia-1.4b
+16,NPZ,control,d2,remained,"When the little girl attacked, the young lamb remained relatively calm despite the sudden assault.",10.394767761230469,1,EleutherAI/pythia-1.4b
+16,NPZ,control,d3,remained,"When the little girl attacked, the young timid lamb remained relatively calm despite the sudden assault.",10.897151947021484,1,EleutherAI/pythia-1.4b
+17,NPZ,ambiguous,d1,demanded,Before the yoga instructor left the position demanded immense physical effort from everyone.,18.53986930847168,1,EleutherAI/pythia-1.4b
+17,NPZ,ambiguous,d2,demanded,Before the yoga instructor left the difficult position demanded immense physical effort from everyone.,15.336942672729492,1,EleutherAI/pythia-1.4b
+17,NPZ,ambiguous,d3,demanded,Before the yoga instructor left the difficult advanced position demanded immense physical effort from everyone.,15.194276809692383,1,EleutherAI/pythia-1.4b
+17,NPZ,control,d1,demanded,"Before the yoga instructor left, the position demanded immense physical effort from everyone.",11.624363899230957,1,EleutherAI/pythia-1.4b
+17,NPZ,control,d2,demanded,"Before the yoga instructor left, the difficult position demanded immense physical effort from everyone.",9.828032493591309,1,EleutherAI/pythia-1.4b
+17,NPZ,control,d3,demanded,"Before the yoga instructor left, the difficult advanced position demanded immense physical effort from everyone.",10.059830665588379,1,EleutherAI/pythia-1.4b
+18,NPZ,ambiguous,d1,received,While the governor read the contract received sweeping support from the audience at the rally.,14.265451431274414,1,EleutherAI/pythia-1.4b
+18,NPZ,ambiguous,d2,received,While the governor read the detailed contract received sweeping support from the audience at the rally.,13.133209228515625,1,EleutherAI/pythia-1.4b
+18,NPZ,ambiguous,d3,received,While the governor read the detailed new contract received sweeping support from the audience at the rally.,13.647161483764648,1,EleutherAI/pythia-1.4b
+18,NPZ,control,d1,received,"While the governor read, the contract received sweeping support from the audience at the rally.",11.468358039855957,1,EleutherAI/pythia-1.4b
+18,NPZ,control,d2,received,"While the governor read, the detailed contract received sweeping support from the audience at the rally.",11.764445304870605,1,EleutherAI/pythia-1.4b
+18,NPZ,control,d3,received,"While the governor read, the detailed new contract received sweeping support from the audience at the rally.",10.66853141784668,1,EleutherAI/pythia-1.4b
+19,NPZ,ambiguous,d1,continued,Before the patient called the treatment continued causing uncomfortable side effects like nausea.,13.66341495513916,1,EleutherAI/pythia-1.4b
+19,NPZ,ambiguous,d2,continued,Before the patient called the new treatment continued causing uncomfortable side effects like nausea.,14.667795181274414,1,EleutherAI/pythia-1.4b
+19,NPZ,ambiguous,d3,continued,Before the patient called the new experimental treatment continued causing uncomfortable side effects like nausea.,16.9150333404541,1,EleutherAI/pythia-1.4b
+19,NPZ,control,d1,continued,"Before the patient called, the treatment continued causing uncomfortable side effects like nausea.",8.98336124420166,1,EleutherAI/pythia-1.4b
+19,NPZ,control,d2,continued,"Before the patient called, the new treatment continued causing uncomfortable side effects like nausea.",9.239315032958984,1,EleutherAI/pythia-1.4b
+19,NPZ,control,d3,continued,"Before the patient called, the new experimental treatment continued causing uncomfortable side effects like nausea.",8.748613357543945,1,EleutherAI/pythia-1.4b
+20,NPZ,ambiguous,d1,started,Once the operator stopped the machine started working efficiently without any supervision.,14.13599681854248,1,EleutherAI/pythia-1.4b
+20,NPZ,ambiguous,d2,started,Once the operator stopped the large machine started working efficiently without any supervision.,12.427680015563965,1,EleutherAI/pythia-1.4b
+20,NPZ,ambiguous,d3,started,Once the operator stopped the large noisy machine started working efficiently without any supervision.,11.688061714172363,1,EleutherAI/pythia-1.4b
+20,NPZ,control,d1,started,"Once the operator stopped, the machine started working efficiently without any supervision.",5.132541656494141,1,EleutherAI/pythia-1.4b
+20,NPZ,control,d2,started,"Once the operator stopped, the large machine started working efficiently without any supervision.",5.324064254760742,1,EleutherAI/pythia-1.4b
+20,NPZ,control,d3,started,"Once the operator stopped, the large noisy machine started working efficiently without any supervision.",4.478862762451172,1,EleutherAI/pythia-1.4b
+21,NPZ,ambiguous,d1,achieved,Once the dancer began the ballet achieved incredible success for a show with a new performer.,20.885700225830078,1,EleutherAI/pythia-1.4b
+21,NPZ,ambiguous,d2,achieved,Once the dancer began the new ballet achieved incredible success for a show with a new performer.,20.101228713989258,1,EleutherAI/pythia-1.4b
+21,NPZ,ambiguous,d3,achieved,Once the dancer began the elegant new ballet achieved incredible success for a show with a new performer.,18.314268112182617,1,EleutherAI/pythia-1.4b
+21,NPZ,control,d1,achieved,"Once the dancer began, the ballet achieved incredible success for a show with a new performer.",12.665514945983887,1,EleutherAI/pythia-1.4b
+21,NPZ,control,d2,achieved,"Once the dancer began, the new ballet achieved incredible success for a show with a new performer.",12.9616117477417,1,EleutherAI/pythia-1.4b
+21,NPZ,control,d3,achieved,"Once the dancer began, the elegant new ballet achieved incredible success for a show with a new performer.",12.508567810058594,1,EleutherAI/pythia-1.4b
+22,NPZ,ambiguous,d1,became,After the contestant lost the money became unavailable despite his previous three wins in a row.,16.921720504760742,1,EleutherAI/pythia-1.4b
+22,NPZ,ambiguous,d2,became,After the contestant lost the extra money became unavailable despite his previous three wins in a row.,16.530607223510742,1,EleutherAI/pythia-1.4b
+22,NPZ,ambiguous,d3,became,After the contestant lost the extra prize money became unavailable despite his previous three wins in a row.,15.730179786682129,1,EleutherAI/pythia-1.4b
+22,NPZ,control,d1,became,"After the contestant lost, the money became unavailable despite his previous three wins in a row.",11.691022872924805,1,EleutherAI/pythia-1.4b
+22,NPZ,control,d2,became,"After the contestant lost, the extra money became unavailable despite his previous three wins in a row.",11.090415000915527,1,EleutherAI/pythia-1.4b
+22,NPZ,control,d3,became,"After the contestant lost, the extra prize money became unavailable despite his previous three wins in a row.",9.678912162780762,1,EleutherAI/pythia-1.4b
+23,NPZ,ambiguous,d1,separated,Once the new chef started the restaurant separated mediocre cooks from gifted ones.,19.089038848876953,1,EleutherAI/pythia-1.4b
+23,NPZ,ambiguous,d2,separated,Once the new chef started the new restaurant separated mediocre cooks from gifted ones.,19.486846923828125,1,EleutherAI/pythia-1.4b
+23,NPZ,ambiguous,d3,separated,Once the new chef started the small new restaurant separated mediocre cooks from gifted ones.,18.254310607910156,1,EleutherAI/pythia-1.4b
+23,NPZ,control,d1,separated,"Once the new chef started, the restaurant separated mediocre cooks from gifted ones.",16.839277267456055,1,EleutherAI/pythia-1.4b
+23,NPZ,control,d2,separated,"Once the new chef started, the new restaurant separated mediocre cooks from gifted ones.",17.262292861938477,1,EleutherAI/pythia-1.4b
+23,NPZ,control,d3,separated,"Once the new chef started, the small new restaurant separated mediocre cooks from gifted ones.",16.737590789794922,1,EleutherAI/pythia-1.4b
+24,NPZ,ambiguous,d1,produced,When the apprentice baker worked the oven produced smaller cakes because he lacked experience.,14.174025535583496,1,EleutherAI/pythia-1.4b
+24,NPZ,ambiguous,d2,produced,When the apprentice baker worked the large oven produced smaller cakes because he lacked experience.,13.629716873168945,1,EleutherAI/pythia-1.4b
+24,NPZ,ambiguous,d3,produced,When the apprentice baker worked the large industrial oven produced smaller cakes because he lacked experience.,11.760125160217285,1,EleutherAI/pythia-1.4b
+24,NPZ,control,d1,produced,"When the apprentice baker worked, the oven produced smaller cakes because he lacked experience.",8.948118209838867,1,EleutherAI/pythia-1.4b
+24,NPZ,control,d2,produced,"When the apprentice baker worked, the large oven produced smaller cakes because he lacked experience.",9.85107421875,1,EleutherAI/pythia-1.4b
+24,NPZ,control,d3,produced,"When the apprentice baker worked, the large industrial oven produced smaller cakes because he lacked experience.",8.308608055114746,1,EleutherAI/pythia-1.4b
