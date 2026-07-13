@@ -96,3 +96,25 @@ Mapping (old → new):
 
 Filenames in the dated entries above are historical; use this mapping to
 translate.
+
+## 2026-07-13 — day 7 centered refit, robustness corrected
+- Repo renamed sapbenchmark -> price-of-reanalysis; venv rebuilt;
+  statsmodels/scikit-learn/matplotlib added to environment (pin into
+  requirements.txt before release).
+- Primary per-model fits recomputed with dist_c = distance - 2 and
+  ambiguity +/-0.5: ambiguity at mean distance 6.11 (SE 0.55) GPT-2-large,
+  5.54 (SE 0.55) Pythia-1.4B; interactions reproduce Section 6.2 exactly
+  (Pythia upper bound corrected 0.16 -> 0.15).
+- Rev-3 distance main effects (-0.45, -0.48) identified as
+  ambiguous-condition slopes under treatment coding; replaced with
+  condition-averaged slopes (-0.29 GPT-2-large, -0.39 Pythia-1.4B).
+- Rev-3 split-half values identified as pooled fits without a model term
+  (pseudo-replicated, same flaw fixed in the primary analysis on day 6);
+  superseded by per-model refits on the same random_state=42 halves:
+  6.86/5.37 GPT-2-large, 5.95/5.13 Pythia-1.4B.
+- One Pythia half shows a significant shrinking interaction (-0.52/step,
+  p = .041); direction opposite H1b, one-sided no-growth claim
+  unaffected; reported explicitly in 6.3 rather than smoothed over.
+  Halves noted as too small to carry the equivalence bound individually.
+- robustness_checks.py needs the per-model fix folded in before code
+  release; day7_centered_refit.py is the corrected reference.
