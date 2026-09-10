@@ -276,7 +276,7 @@ region is scored separately.
 
 GP effect = surprisal(ambiguous) − surprisal(control) at the critical region.
 
-## Model — the hypothesis test
+## Model, the hypothesis test
 Linear mixed-effects model (pymer4 / lme4) of critical-region surprisal:
 
     surprisal ~ ambiguity * distance + (1 | item)
@@ -345,7 +345,7 @@ checkpoint developmental study, and the agreement structural-attraction contrast
 def update_log(repo_root: Path, prov: dict, item14_fixed: bool, also_nps: bool):
     log = repo_root / "decisions_log.md"
     entry = f"""
-## {prov['date']} — Day 1: NP/Z stimuli
+## {prov['date']}, Day 1: NP/Z stimuli
 
 - Adopted SAP Benchmark NP/Z (Huang et al. 2024) as the base set (commit
   `{prov['repo_commit'][:12]}`); adapted, not authored.

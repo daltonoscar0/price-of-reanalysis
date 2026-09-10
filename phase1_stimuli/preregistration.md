@@ -1,4 +1,4 @@
-# Preregistration — NP/Z garden-path dissociation (Phase 1)
+# Preregistration, NP/Z garden-path dissociation (Phase 1)
 
 *Frozen 2026-06-22, before any test-model surprisal is computed.*
 
@@ -22,8 +22,8 @@
    surprisal in the mixed model specified in analysis_plan.md. Random-effects
    structure: by-item intercepts; slopes only if convergent.
 
-6. **Predictions.** H1 → positive ambiguity×distance (GP grows with distance);
-   H2 → null interaction (GP flat). Direction validated against published human
+6. **Predictions.** H1 -> positive ambiguity×distance (GP grows with distance);
+   H2 -> null interaction (GP flat). Direction validated against published human
    norms; no new human data collected.
 
 7. **Exclusions.** Any item flagged by the plausibility gate is reported and, if

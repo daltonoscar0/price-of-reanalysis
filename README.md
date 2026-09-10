@@ -13,7 +13,7 @@ into the woods"*) and measure surprisal at the disambiguating verb.
 the disambiguating region in both models tested), but it is **not modulated by
 distance**. The ambiguity × distance interaction is non-significant in
 per-model and pooled mixed-effects fits, and stable across held-out item
-splits — consistent with a structure-driven account of reanalysis cost rather
+splits, consistent with a structure-driven account of reanalysis cost rather
 than a linear-distance one.
 
 Stimuli are adapted from the NP/Z subset of the **SAP Benchmark**
@@ -26,8 +26,8 @@ Project files live at the repo root and in `phase1_stimuli/`. Three files are
 carried over from the original SAP Benchmark repo: `Items for all
 subsets.xlsx` (the item source `build_stimuli.py` reads and checksums),
 `readme_SAP.txt` (the upstream documentation), and `LICENSE` (which applies to
-those upstream materials). The rest of the benchmark — the human reading-time
-data and analyses — is not included here; get it from the
+those upstream materials). The rest of the benchmark, the human reading-time
+data and analyses, is not included here; get it from the
 [upstream repo](https://github.com/caplabnyu/sapbenchmark) at the commit
 pinned in `phase1_stimuli/provenance.json`.
 

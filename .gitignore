@@ -3,3 +3,11 @@ __pycache__/
 .DS_Store
 *.rds
 _to_delete/
+CLAUDE.md
+AGENTS.md
+.claude/
+.agentnotes/
+.cursor/
+.mcp.json
+tasks/lessons.md
+tasks/todo.md

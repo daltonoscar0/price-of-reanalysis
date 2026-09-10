@@ -1,4 +1,4 @@
-# Phase-1 analysis plan — NP/Z garden-path dissociation
+# Phase-1 analysis plan, NP/Z garden-path dissociation
 
 *Locked 2026-06-22. Source: SAP Benchmark (Huang et al., 2024, JML), repo
 commit `15e61066d510`, file `Items for all subsets.xlsx` (sha256
@@ -19,19 +19,19 @@ region is scored separately.
 
 GP effect = surprisal(ambiguous) − surprisal(control) at the critical region.
 
-## Model — the hypothesis test
+## Model, the hypothesis test
 Linear mixed-effects model (pymer4 / lme4) of critical-region surprisal:
 
     surprisal ~ ambiguity * distance + (1 | item)
 
-Fixed effects: ambiguity, distance (treated as ordered/numeric 1–3), and the
-**ambiguity × distance interaction — the confirmatory test**. Random intercepts
+Fixed effects: ambiguity, distance (treated as ordered/numeric 1-3), and the
+**ambiguity × distance interaction, the confirmatory test**. Random intercepts
 for item; by-item random slopes for ambiguity and/or distance added only if the
 model converges (no maximal-model fights). Distance coded both as a factor and as
 a linear contrast; the linear ambiguity×distance term is the primary estimate.
 
-- H1 (linear): GP effect grows with distance → ambiguity×distance ≠ 0, GP rising.
-- H2 (hierarchical): GP effect flat across distance → ambiguity×distance ≈ 0.
+- H1 (linear): GP effect grows with distance -> ambiguity×distance ≠ 0, GP rising.
+- H2 (hierarchical): GP effect flat across distance -> ambiguity×distance ≈ 0.
 
 ## Models scored
 Llama-3 8B (base, pinned revision) primary; a fast contrast (Pythia-1.4B or
